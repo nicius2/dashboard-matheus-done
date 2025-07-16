@@ -1,7 +1,7 @@
 // src/services/apiService.tsx
 
 // Define a URL base da sua API.
-const API_BASE_URL = "http://localhost:8001"; // Ou process.env.REACT_APP_API_BASE_URL;
+const API_BASE_URL = "https://api-matheus-quantumm.onrender.com"; // Ou process.env.REACT_APP_API_BASE_URL;
 
 // --- Interfaces de Tipagem para os Dados da API ---
 
