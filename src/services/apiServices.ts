@@ -1,7 +1,7 @@
 // src/services/apiService.tsx
 
 // Define a URL base da sua API.
-const API_BASE_URL = "https://8000-iw4i4wr1bx3iz55r5w5ck-aef56e05.manusvm.computer"; // Ou process.env.REACT_APP_API_BASE_URL;
+const API_BASE_URL = "http://localhost:8000"; // Ou process.env.REACT_APP_API_BASE_URL;
 
 // --- Interfaces de Tipagem para os Dados da API ---
 
